@@ -1,0 +1,5 @@
+require 'konpow/version'
+require 'konpow/config'
+require 'konpow/helper'
+require 'konpow/hooks'
+require 'konpow/railtie'
